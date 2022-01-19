@@ -10,8 +10,14 @@ This analysis was to review PyBer data by different city types (Urban, Suburban,
 
 ## Summary and Recommendations
 - Rural cities had both the highest average fare per ride and the highest average fare per driver.
-  -   test
 - Urban cities had both the highest number of rides and the highest number of drivers.
-  - test
 - Urban cities had more drivers (2,405) than riders (1,625).
-  -  test
+
+- Look into increasing marketing in Rural cities to attract new customers.
+- Urban drivers could be deployed to work in Suburban or Rural areas to balance the work force.
+- Survey Suburban and Rural riders to get feedback and demographic information on riders.  
+  - Are Urban riders younger?  
+  - Are Rural riders older?  
+  - Are Urban riders using the service for a night out?  
+  - Are Rural riders using the service to run errands as they are unable to drive?
+  - Where do Surburban riders fall on this spectrum?
